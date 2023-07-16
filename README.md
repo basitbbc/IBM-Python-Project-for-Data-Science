@@ -1,6 +1,6 @@
 # IBM Python Project For Data Science
 
-![Alt text](IBM_logo.svg.png)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### About this Professional Course
 
