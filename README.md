@@ -18,7 +18,7 @@ Throughout the certificate program, you will work with essential tools like Jupy
 As part of the applied learning approach, you will undertake various projects, including Web Scraping Introduction, Extracting Stock Data Using Web Scraping, Extracting Stock Data Using Python Library, and Extracting and Visualizing Stock. These projects will provide you with valuable hands-on experience and reinforce your understanding of data science concepts.
 
 Read on to <a href="https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science">discover more</a> about this exciting and career-relevant Professional Certificate from IBM.
-
+<br>
 ### Instructors
 ##### Azim Hirjani
 ##### Joseph Santarcangelo
