@@ -1,6 +1,6 @@
 # IBM Python Project For Data Science
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Badge" width="500" height="400">
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Badge" width="400" height="300">
+  
 ## Description
 
 Data science stands out as one of the most sought-after professions in the current decade, with an unprecedented demand for skilled data scientists who can proficiently analyze data and effectively communicate their findings to drive data-driven decision-making. The IBM Professional Certificate offers a valuable opportunity for individuals aspiring to pursue a career in data science or machine learning, enabling them to cultivate relevant skills and gain practical experience.
