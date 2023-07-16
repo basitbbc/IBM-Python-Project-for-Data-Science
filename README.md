@@ -1,28 +1,24 @@
 # IBM Python Project For Data Science
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Badge" width="500" height="400">
-### About this Professional Course
 
-Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills and experience.
+## Description
 
-This mini-course is intended to for you to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where you will develop a simple dashboard using Python.
+Data science stands out as one of the most sought-after professions in the current decade, with an unprecedented demand for skilled data scientists who can proficiently analyze data and effectively communicate their findings to drive data-driven decision-making. The IBM Professional Certificate offers a valuable opportunity for individuals aspiring to pursue a career in data science or machine learning, enabling them to cultivate relevant skills and gain practical experience.
 
-This course is part of the IBM Data Science Professional Certificate and the IBM Data Analytics Professional Certificate.
+This mini-course is designed to help you showcase foundational Python skills essential for data manipulation and analysis. Through hands-on projects, you will have the chance to develop a simple dashboard using Python, further reinforcing your learning.
 
-In addition to earning a Professional Certificate from Coursera, you'll also receive a digital badge from IBM recognizing your proficiency in data science.
+As part of both the IBM Data Science Professional Certificate and the IBM Data Analytics Professional Certificate, successful completion of this course will earn you a recognized Professional Certificate from Coursera, along with an esteemed digital badge from IBM, acknowledging your expertise in the field of data science.
 
-Applied Learning Project
-This Professional Certificate has a strong emphasis on applied learning. Except for the first course, all other courses include a series of hands-on labs in the IBM Cloud that will give you practical skills with applicability to real jobs, including:
+### DataLab Mastery: A Hands-On Learning Journey
 
-Tools: Jupyter / JupyterLab, and Watson Studio
+The focus of this Professional Certificate lies in applied learning, emphasizing hands-on experience throughout the courses. With the exception of the first course, all subsequent courses offer a series of practical labs hosted on the IBM Cloud. These labs are specifically designed to equip you with real-world skills that are directly applicable to various job scenarios.
 
-Libraries: Pandas, BeautifulSoup, Plotly, Requests
+Throughout the certificate program, you will work with essential tools like Jupyter / JupyterLab and Watson Studio, gaining proficiency in their usage. Additionally, you will become familiar with important libraries such as Pandas, BeautifulSoup, Plotly, and Requests, empowering you to work efficiently with data and derive meaningful insights.
 
-Projects: Web Scraping Introduction, Extracting Stock Data Using Web Scraping, Extracting Stock Data Using Python Library, Extracting and Visualisig Stock
+As part of the applied learning approach, you will undertake various projects, including Web Scraping Introduction, Extracting Stock Data Using Web Scraping, Extracting Stock Data Using Python Library, and Extracting and Visualizing Stock. These projects will provide you with valuable hands-on experience and reinforce your understanding of data science concepts.
 
-Read more below:
+Read on to <a href="https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science">discover more</a> about this exciting and career-relevant Professional Certificate from IBM.
 
-Course Link: IBM Data Science Professional Certificate
-
-Instructors
-Azim Hirjani
-Joseph Santarcangelo
+### Instructors
+##### Azim Hirjani
+##### Joseph Santarcangelo
