@@ -19,6 +19,6 @@ As part of the applied learning approach, you will undertake various projects, i
 
 Read on to <a href="https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science">discover more</a> about this exciting and career-relevant Professional Certificate from IBM.
 
-### Instructors
-##### Azim Hirjani
-##### Joseph Santarcangelo
+## Instructors
+- ##### Azim Hirjani
+- ##### Joseph Santarcangelo
