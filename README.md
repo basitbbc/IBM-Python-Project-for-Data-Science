@@ -1,7 +1,7 @@
 # IBM Python Project For Data Science
 
 <p align="center">
-  <img src="https://pngimg.com/image/19662" alt="IBM Badge">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Badge">
 </p>
 
 ### About this Professional Course
